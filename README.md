@@ -4,6 +4,8 @@
 
 Crestron Debugging Scripts are made to help you with debugging your code in the Simpl#Pro.
 
+Make sure you have installed <a href="https://sdkcon78221.crestron.com/sdk/Crestron_EDK_SDK/Content/Topics/Installation.htm">Crestron EDK</a> on your local machine.
+
 Here are the steps that you need to follow:
 <ul>
   <li>Download scripts on your local computer</li>
