@@ -1,4 +1,4 @@
-# Crestron-Debugging-Scripts
+# Crestron Debugging Scripts
 
 ## How to use scripts?
 
